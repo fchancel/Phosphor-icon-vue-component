@@ -1,6 +1,6 @@
 # Phosphor-icon-vue-component
 
-Browse a folder with SVG files from the `Phosphor Icons` library to mine them and (if desired) create an import system for the icons to easily use them in a Vue.js component
+Browse a folder with SVG files from the `Phosphor Icons` library to minify them and (if desired) create an import system for the icons to easily use them in a Vue.js component
 
 
 Starts the command with the path to the svg folder to process as argument.
